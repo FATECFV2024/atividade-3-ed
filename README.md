@@ -11,8 +11,8 @@
 ## Como Utilizar Esse Projeto 📁
 
 - Nesse projeto há duas pastas:
-    - FazerNetBeans:Exclusiva para realizar na IDE NetBeans 8.2 (Utilizaremos esse no Laboratório)
-    - FazerNetBeans:Exclusiva para realizar no VisualStudio Code. 
+    - FazerNetBeans:Exclusiva para realizar na IDE NetBeans 8.2 (ou Superior)
+    - FazerVsCode:Exclusiva para realizar no VisualStudio Code. 
 
 - Na sua máquina tem que ter instalado o <a href="https://www.oracle.com/br/java/technologies/downloads/" target="_blank">Java Development Kit (JDK) </a> 
 - Caso utilize o VisualStudio Code é necessário que instale a <a href="https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack" target="_blank">Extension Pack for Java</a>
@@ -21,17 +21,17 @@
 - <b>Atenção!</b> Escolhe apenas <b>UMA</b> das pastas para realizar a atividade! 
 
 ## Escopo da Atividade 🛠️
-Implementar uma classe que seja capaz de simular todos os cenários abaixo: 
+Implementar os exercícios abaixo: 
+![30](https://github.com/FATECFV2024/atividade-3-ed/assets/98854868/da7470e0-dd7a-495a-b92f-40f4c8a495c4)
+![29](https://github.com/FATECFV2024/atividade-3-ed/assets/98854868/9dc50eb6-ac7f-494d-96ba-43304a203671)
+![28](https://github.com/FATECFV2024/atividade-3-ed/assets/98854868/5a05dbf1-d245-4b55-a8e2-16fc1b4edf76)
 
-![39](https://github.com/franciscodouglas/atividade-1-revisao/assets/98854868/cd21f5e8-5f2b-4fc6-bc40-612d3f60359e)
-![40](https://github.com/franciscodouglas/atividade-1-revisao/assets/98854868/a0362b19-45bd-492b-9d56-99e2bacb5ac7)
-![41](https://github.com/franciscodouglas/atividade-1-revisao/assets/98854868/9292b738-c939-4810-8c28-35abe27c10ae)
-![42](https://github.com/franciscodouglas/atividade-1-revisao/assets/98854868/f0e17c4d-2ef9-4667-af64-4f17b627e706)
 
 ## No Microsoft Teams  👥
 
-- Não há necessidade fazer o upload do projeto 
-- Caso tenha realizado em dupla, mencione o NOME e RGM da dupla lá no Teams em um arquivo .txt
+- Não há necessidade fazer o upload do projeto;
+- Se possível, enviar o link do repositório; 
+- Caso tenha realizado em dupla, mencione o NOME e RA da dupla lá no Teams em um arquivo .txt;
 
 ## Regras 📄
 
@@ -41,7 +41,7 @@ Implementar uma classe que seja capaz de simular todos os cenários abaixo:
 - Utilize comentários para elucidar o cenário elaborado;
 
 ## Feedback 📨
--  Sua atividade receberá uma pontuação de 0 a 10, que compõe os 40% da Nota da M2;
+-  Sua atividade receberá uma pontuação de 0 a 10, que compõe a nota de atividades das N1;
 -  A nota será atribuída no Microsoft Teams
 
 
